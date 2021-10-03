@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../noise_LCG.srcs/sources_1/ip/div_gen_remain/sim/div_gen_remain.vhd" \
+"../../../../noise_LCG.srcs/sources_1/ip/mult_a_x/sim/mult_a_x.vhd" \
+
+# Do not sort compile order
+nosort
