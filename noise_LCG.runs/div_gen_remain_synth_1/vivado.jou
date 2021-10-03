@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Sep 27 23:16:36 2021
+# Process ID: 34280
+# Current directory: F:/1.work_user/1.noise_gen/noise_LCG/noise_LCG.runs/div_gen_remain_synth_1
+# Command line: vivado.exe -log div_gen_remain.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source div_gen_remain.tcl
+# Log file: F:/1.work_user/1.noise_gen/noise_LCG/noise_LCG.runs/div_gen_remain_synth_1/div_gen_remain.vds
+# Journal file: F:/1.work_user/1.noise_gen/noise_LCG/noise_LCG.runs/div_gen_remain_synth_1\vivado.jou
+#-----------------------------------------------------------
+source div_gen_remain.tcl -notrace
