@@ -7,4 +7,6 @@ This project is a design&implementation of a General Random Number Generator usi
   
   diagram.pdf shows a brief description of the design.  
   
-  Configuration of IP core.docx gives the configuration of the IP core used in the project.
+  Configuration of IP core.docx gives the configuration of the IP core used in the project.  
+    
+  The MATLAB script for validating the design has been included within the subdirectory **verif** .
