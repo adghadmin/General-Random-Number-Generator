@@ -10,3 +10,5 @@ This project is a design&implementation of a General Random Number Generator usi
   Configuration of IP core.docx gives the configuration of the IP core used in the project.  
     
   The MATLAB script for validating the design has been included within the subdirectory **verif** .
+  
+  The top level HDL file for the block and the code I wrote were in the location: **noise_LCG.srcs/sources_1/new** .
